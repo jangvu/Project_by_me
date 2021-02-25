@@ -1,1 +1,1 @@
-# Project_by_me
+# Some small Deep Learning and Machine Learning projects by me
