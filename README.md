@@ -1,1 +1,1 @@
-# Some small Deep Learning and Machine Learning projects by me
+# Some small Deep Learning and Machine Learning projects
